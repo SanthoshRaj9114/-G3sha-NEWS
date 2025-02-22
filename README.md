@@ -1,1 +1,0 @@
-# -G3sha-NEWS
